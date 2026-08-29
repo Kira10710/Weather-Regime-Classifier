@@ -1,0 +1,22 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Raw data dumps (large, regeneratable via fetch scripts)
+imerg_raw/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
